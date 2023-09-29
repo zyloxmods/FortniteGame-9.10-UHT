@@ -1,0 +1,270 @@
+WindowsPlatformFactory.RegisterBuildPlatforms: UnrealBuildTool.WindowsPlatformSDK using manually installed SDK
+ProjectFileGenerator.GenerateProjectFiles: Discovering modules, targets and source code for project...
+WindowsPlatform.FindVSInstallDirs: Found Visual Studio installation: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community (Product=Microsoft.VisualStudio.Product.Community, Version=15.9.33027.88, Sort=0)
+WindowsPlatform.FindToolChainDirs: Found Visual Studio toolchain: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.13.26128 (Version=14.13.26128)
+WindowsPlatform.FindToolChainDirs: Found Visual Studio toolchain: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023 (Version=14.16.27023)
+WindowsPlatform.UpdateCachedWindowsSdks: Found Windows 8.1 SDK at C:\Program Files (x86)\Windows Kits\8.1
+WindowsPlatform.EnumerateSdkRootDirs: Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (1)
+WindowsPlatform.EnumerateSdkRootDirs: Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (2)
+WindowsPlatform.UpdateCachedWindowsSdks: Found Universal CRT version 10.0.10240.0 at C:\Program Files (x86)\Windows Kits\10
+WindowsPlatform.UpdateCachedWindowsSdks: Found Windows 10 SDK version 10.0.16299.0 at C:\Program Files (x86)\Windows Kits\10
+WindowsPlatform.UpdateCachedWindowsSdks: Found Universal CRT version 10.0.16299.0 at C:\Program Files (x86)\Windows Kits\10
+WindowsPlatform.UpdateCachedWindowsSdks: Found Windows 10 SDK version 10.0.17134.0 at C:\Program Files (x86)\Windows Kits\10
+WindowsPlatform.UpdateCachedWindowsSdks: Found Universal CRT version 10.0.17134.0 at C:\Program Files (x86)\Windows Kits\10
+WindowsPlatform.UpdateCachedWindowsSdks: Found Windows 10 SDK version 10.0.17763.0 at C:\Program Files (x86)\Windows Kits\10
+WindowsPlatform.UpdateCachedWindowsSdks: Found Universal CRT version 10.0.17763.0 at C:\Program Files (x86)\Windows Kits\10
+WindowsPlatform.UpdateCachedWindowsSdks: Found Windows 10 SDK version 10.0.18362.0 at C:\Program Files (x86)\Windows Kits\10
+WindowsPlatform.UpdateCachedWindowsSdks: Found Universal CRT version 10.0.18362.0 at C:\Program Files (x86)\Windows Kits\10
+WindowsPlatform.UpdateCachedWindowsSdks: Found Windows 10 SDK version 10.0.19041.0 at C:\Program Files (x86)\Windows Kits\10
+WindowsPlatform.UpdateCachedWindowsSdks: Found Universal CRT version 10.0.19041.0 at C:\Program Files (x86)\Windows Kits\10
+Log.PushStatus: Binding IntelliSense data...
+ProgressWriter.Write: @progress 'Binding IntelliSense data...' 0%
+UEBuildTarget.AddPlugin: Enabling plugin 'Paper2D' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AISupport' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'LightPropagationVolume' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ActorLayerUtilities' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AnimationSharing' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SignificanceManager' (referenced via default plugins -> AnimationSharing.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'CLionSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CodeLiteSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'GitSourceControl' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'KDevelopSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'NullSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'PerforceSourceControl' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SubversionSourceControl' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'UObjectPlugin' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'VisualStudioCodeSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'VisualStudioSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'XCodeSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AssetManagerEditor' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CryptoKeys' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'DataValidation' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'FacialAnimation' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'GameplayTagsEditor' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MacGraphicsSwitching' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MaterialAnalyzer' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MobileLauncherProfileWizard' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'PluginBrowser' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SpeedTreeImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'DatasmithContent' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'VariantManagerContent' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AlembicImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'GeometryCache' (referenced via default plugins -> AlembicImporter.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'AppleImageUtils' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AutomationUtils' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ScreenshotTools' (referenced via default plugins -> AutomationUtils.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'BackChannel' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CharacterAI' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'HTML5Networking' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ProxyLODPlugin' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SkeletalReduction' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MagicLeapMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MagicLeap' (referenced via default plugins -> MagicLeapMedia.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'ProceduralMeshComponent' (referenced via default plugins -> MagicLeapMedia.uplugin -> MagicLeap.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AvfMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ImgMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'LinearTimecode' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MediaCompositing' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MediaPlayerEditor' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'WmfMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'TcpMessaging' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'UdpMessaging' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ActorSequence' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'LevelSequenceEditor' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MatineeToLevelSequence' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'NetcodeUnitTest' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'NUTUnrealEngine4' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemGooglePlay' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystem' (referenced via default plugins -> OnlineSubsystemGooglePlay.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidPermission' (referenced via default plugins -> OnlineSubsystemGooglePlay.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemIOS' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemNull' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemUtils' (referenced via default plugins -> OnlineSubsystemNull.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'LauncherChunkInstaller' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidDeviceProfileSelector' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidMoviePlayer' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AppleMoviePlayer' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ArchVisCharacter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AudioCapture' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CableComponent' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CustomMeshComponent' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'EditableMesh' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ExampleDeviceProfileSelector' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'GoogleCloudMessaging' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'IOSDeviceProfileSelector' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'LinuxDeviceProfileSelector' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'LocationServicesBPLibrary' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MobilePatchingUtils' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'PhysXVehicles' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'RuntimePhysXCooking' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SteamVR' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'WebMMoviePlayer' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'WebMMedia' (referenced via default plugins -> WebMMoviePlayer.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'WindowsMoviePlayer' (referenced via default plugins)
+VCToolChain..ctor: Compiler: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX64\x64\cl.exe
+VCToolChain..ctor: Linker: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX64\x64\link.exe
+VCToolChain..ctor: Library Manager: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX64\x64\lib.exe
+VCToolChain..ctor: Resource Compiler: C:\Program Files (x86)\Windows Kits\10\bin\10.0.16299.0\x64\rc.exe
+ProgressWriter.Write: @progress 'Binding IntelliSense data...' 50%
+UEBuildTarget.AddPlugin: Enabling plugin 'AESHandlerComponent' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'PlatformCrypto' (referenced via FortniteGame.uproject -> AESHandlerComponent.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'AlembicImporter' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'GeometryCache' (referenced via FortniteGame.uproject -> AlembicImporter.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidDeviceProfileSelector' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidPermission' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'AnimationBudgetAllocator' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'AnimationSharing' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'SignificanceManager' (referenced via FortniteGame.uproject -> AnimationSharing.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'AppleImageUtils' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'VoiceEmbeddedCommunication' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystem' (referenced via FortniteGame.uproject -> VoiceEmbeddedCommunication.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemMcp' (referenced via FortniteGame.uproject -> VoiceEmbeddedCommunication.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemUtils' (referenced via FortniteGame.uproject -> VoiceEmbeddedCommunication.uplugin -> OnlineSubsystemMcp.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'VoiceChatManager' (referenced via FortniteGame.uproject -> VoiceEmbeddedCommunication.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineFramework' (referenced via FortniteGame.uproject -> VoiceEmbeddedCommunication.uplugin -> VoiceChatManager.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'VivoxVoiceChat' (referenced via FortniteGame.uproject -> VoiceEmbeddedCommunication.uplugin -> VoiceChatManager.uplugin)
+UEBuildTarget.AddPlugin: Ignoring plugin 'VivoxService' (referenced via FortniteGame.uproject -> VoiceEmbeddedCommunication.uplugin -> VoiceChatManager.uplugin) for platform/configuration
+UEBuildTarget.AddPlugin: Enabling plugin 'EmbeddedCommunicationSubsystem' (referenced via FortniteGame.uproject -> VoiceEmbeddedCommunication.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineEmbeddedCommunication' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'EmbeddedCommunicationJSBridge' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'WebBrowserNativeProxy' (referenced via FortniteGame.uproject -> EmbeddedCommunicationJSBridge.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'BackChannel' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'BlueprintContext' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'BlueprintMaterialTextureNodes' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'CableComponent' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'CommonUI' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'GameplayTagsEditor' (referenced via FortniteGame.uproject -> CommonUI.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'ControlRig' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'Crashlytics' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'DiscordRPC' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'DSSNetworkReplayStreamer' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'EditorScriptingUtilities' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'FortInstallBundleManager' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'FortniteEarlyStartupPatcher' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'RHIPanicSentinel' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'EpicCMS' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'EpicCMSUIFramework' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'FunctionalTestingEditor' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'GameplayAbilities' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'Gauntlet' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'ImgMedia' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'ImagePlate' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'IOSDeviceProfileSelector' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'LiveLink' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'Takes' (referenced via FortniteGame.uproject -> LiveLink.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'LevelSequenceEditor' (referenced via FortniteGame.uproject -> LiveLink.uplugin -> Takes.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'LiveLinkCurveDebugUI' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'LiveStreamVoice' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'LogitechLED' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'MatchmakingService' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'MediaCompositing' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'MeshNetwork' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'ReplicationGraph' (referenced via FortniteGame.uproject -> MeshNetwork.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'MfMedia' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'Niagara' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'NetUI' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'NVIDIAGfeSDK' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineGameplayFramework' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemIOS' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemLiveServer' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemTencent' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemFacebook' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemGoogle' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemNull' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemPS4Server' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemTwitch' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'Oodle' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'Paper2D' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'PhysXVehicles' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'ProceduralMeshComponent' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'PurchaseFlow' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'PythonScriptPlugin' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'RazerChroma' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'RemoteSession' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'LauncherSocial' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'SocialUMG' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'SubtitlesWidgets' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'SubtitlesWidgetsEditor' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'UAC' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'UACBase' (referenced via FortniteGame.uproject -> UAC.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'Firebase' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'UdpMessaging' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'VisualStudioSourceCodeAccess' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'WindowsDeviceProfileSelector' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'WinDualShock' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'LauncherChunkInstaller' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'TimeSynth' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'MIDIDevice' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'FacialAnimSystem' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'SpeechGraphics' (referenced via FortniteGame.uproject -> FacialAnimSystem.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'SequencerScripting' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'EpicArtPipeline' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'IbmStreamingMedia' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'WmfMedia' (referenced via FortniteGame.uproject -> IbmStreamingMedia.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidMedia' (referenced via FortniteGame.uproject -> IbmStreamingMedia.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'AvfMedia' (referenced via FortniteGame.uproject -> IbmStreamingMedia.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'Synthesis' (referenced via FortniteGame.uproject)
+UEBuildTarget.AddPlugin: Enabling plugin 'DriftKairosJSBridge' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'DriftKairos' (referenced via default plugins -> DriftKairosJSBridge.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'EpicGameplayStats' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'EsportsCamera' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'KairosSceneCapture' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ScreenCapture' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'VivoxService' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'VivoxToken' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'PerforceSourceControl' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AssetManagerEditor' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CryptoKeys' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'DataValidation' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MaterialAnalyzer' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AutomationUtils' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ScreenshotTools' (referenced via default plugins -> AutomationUtils.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'ProxyLODPlugin' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SkeletalReduction' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MediaPlayerEditor' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'NetcodeUnitTest' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'NUTUnrealEngine4' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'LinuxDeviceProfileSelector' (referenced via default plugins)
+ProjectFileGenerator.GenerateIntelliSenseData: WARNING: Exception while generating include data for FortniteGameEditor: Could not find definition for module 'WeGame' (referenced via Target -> OnlineSubsystemTencent.Build.cs)
+ProgressWriter.Write: @progress 'Binding IntelliSense data...' 100%
+Log.PushStatus: Writing project files...
+ProgressWriter.Write: @progress 'Writing project files...' 0%
+ProgressWriter.Write: @progress 'Writing project files...' 33%
+ProgressWriter.Write: @progress 'Writing project files...' 67%
+ProgressWriter.Write: @progress 'Writing project files...' 100%
+Timeline.Print: Timeline:
+Timeline.Print: 
+Timeline.Print: [ 0.000]
+Timeline.Print: [ 0.000](+0.020) <unknown>
+Timeline.Print: [ 0.020](+0.026) XmlConfig.ReadConfigFiles()
+Timeline.Print: [ 0.047](+0.000) SingleInstanceMutex.Acquire()
+Timeline.Print: [ 0.047](+0.028) UEBuildPlatform.RegisterPlatforms()
+Timeline.Print:   0.047          [ 0.000](+0.015) Initializing InstalledPlatformInfo
+Timeline.Print:   0.063          [ 0.016](+0.000) Querying types
+Timeline.Print:   0.064          [ 0.017](+0.000) MacPlatformFactory
+Timeline.Print:   0.065          [ 0.018](+0.000) TVOSPlatformFactory
+Timeline.Print:   0.065          [ 0.018](+0.000) AndroidPlatformFactory
+Timeline.Print:   0.065          [ 0.018](+0.000) IOSPlatformFactory
+Timeline.Print:   0.065          [ 0.018](+0.000) HTML5PlatformFactory
+Timeline.Print:   0.065          [ 0.018](+0.000) LinuxPlatformFactory
+Timeline.Print:   0.065          [ 0.018](+0.000) LuminPlatformFactory
+Timeline.Print:   0.065          [ 0.018](+0.010) WindowsPlatformFactory
+Timeline.Print: [ 0.075](+0.367) <unknown>
+Timeline.Print: [ 0.443](+0.002) Finding engine modules
+Timeline.Print: [ 0.445](+0.001) Finding plugin modules
+Timeline.Print: [ 0.464](+0.000) Finding program modules
+Timeline.Print: [ 0.464](+0.000) Finding program targets
+Timeline.Print: [ 0.464](+1.287) <unknown>
+Timeline.Print: [ 1.752](+0.000) RulesCompiler.CreateTargetRulesAssembly()
+Timeline.Print: [ 1.752](+0.001) RulesAssembly.CreateTargetRules()
+Timeline.Print: [ 1.757](+0.005) UEBuildTarget constructor
+Timeline.Print: [ 1.762](+0.538) UEBuildTarget.PreBuildSetup()
+Timeline.Print: [ 2.301](+0.204) <unknown>
+Timeline.Print: [ 2.506](+0.000) RulesCompiler.CreateTargetRulesAssembly()
+Timeline.Print: [ 2.506](+0.000) RulesAssembly.CreateTargetRules()
+Timeline.Print: [ 2.507](+0.000) UEBuildTarget constructor
+Timeline.Print: [ 2.508](+0.035) UEBuildTarget.PreBuildSetup()
+Timeline.Print: [ 2.544](+1.449) <unknown>
+Timeline.Print: [ 3.993](+0.000) FileMetadataPrefetch.Stop()
+Timeline.Print: [ 3.995]
